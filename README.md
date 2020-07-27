@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 
+<table>
+  <tr><td>Hello</td><td>World</td></tr>
+</table>
+
+
 ## Be sure to check out my repositories 
 
-
-![](https://github.com/BenSchr/BenSchr/img/jake.gif)
+![](https://github.com/BenSchr/BenSchr/blob/master/img/jake.gif)
 
 <!--
 **BenSchr/BenSchr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
