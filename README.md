@@ -13,6 +13,20 @@
 
 </p>
 
+
+### About me <img alt="Benedikt Schröter" width="60px" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" />
+
+Working as Big Data Engineer @ [Cologne Intelligence](https://www.cologne-intelligence.de/)
+
+Python = :heartpulse:
+
+### I’m currently working on :hammer: 
+
+Getting things done on [Halite Season 4](https://www.kaggle.com/c/halite)
+
+More dockerized infrastructure :whale:  
+
+
 ## Be sure to check out my repositories 
 
 ![](https://github.com/BenSchr/BenSchr/blob/master/img/jake.gif)
