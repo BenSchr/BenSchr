@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+![](https://github.com/BenSchr/BenSchr/blob/master/img/header.PNG)
 
-<table>
-  <tr><td>Hello</td><td>World</td></tr>
-</table>
-
+<a href="https://www.linkedin.com/in/benedikt-schr%C3%B6ter-1692a3183/">
+  <img align="left" alt="Benedikt Schröter" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+</a>
 
 ## Be sure to check out my repositories 
 
