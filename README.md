@@ -2,6 +2,12 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenSchr)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Be sure to check out my repositories 
+
+
 ![](img/jake.gif)
 
 <!--
