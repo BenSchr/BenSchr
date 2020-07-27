@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenSchr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Be sure to check out my repositories 
 
 
-![](img/jake.gif)
+![](https://github.com/BenSchr/BenSchr/img/jake.gif)
 
 <!--
 **BenSchr/BenSchr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
