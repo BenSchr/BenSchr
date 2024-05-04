@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">
 <img align=center alt="Benedikt Schröter" width="70%" src="https://github.com/BenSchr/BenSchr/blob/master/img/header.PNG" /></p>
 
@@ -25,7 +25,7 @@ Python = :heartpulse:
 Getting things done on [Halite Season 4](https://www.kaggle.com/c/halite)
 
 More dockerized infrastructure :whale:  
-
+-->
 
 ## Be sure to check out my repositories 
 
